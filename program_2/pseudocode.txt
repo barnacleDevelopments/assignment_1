@@ -1,0 +1,4 @@
+ * Get inputed loan amount
+ * Get inputed interest rate
+ * Get number of years 
+
